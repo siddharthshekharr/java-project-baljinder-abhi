@@ -1,1 +1,1 @@
-I am cloning the git repository from the GitHub account to the VS code.
+I am cloning the git repository from the GitHub account to the VS code. I am currently using git to keep track of changes that are previously modified. To do that, we need to use git commands in order to keep track of modified changes to the ability of git. 
