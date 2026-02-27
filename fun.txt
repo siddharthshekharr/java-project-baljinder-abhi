@@ -1,0 +1,1 @@
+I am cloning the git repository from the GitHub account to the VS code.
